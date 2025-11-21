@@ -1,0 +1,5 @@
+{
+  "name": "FastAPI Student Manager",
+  "description": "A modern React frontend designed to consume the Student/Course FastAPI CRUD system. Features pagination, search, sorting, and enrollment management.",
+  "requestFramePermissions": []
+}
